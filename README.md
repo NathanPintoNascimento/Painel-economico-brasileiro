@@ -79,7 +79,7 @@ painel-economico-br/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/painel-economico-br.git
+git clone https://github.com/NathanPintoNascimento/painel-economico-br.git
 cd painel-economico-br
 ```
 
@@ -139,13 +139,13 @@ resumo_recente(df, meses=12)   # estatísticas dos últimos 12 meses
 
 ##  Boas Práticas Adotadas
 
-- ✅ Separação de responsabilidades em módulos (`coletor`, `analise`, `dashboard`)
-- ✅ Docstrings em todas as funções
-- ✅ Logging estruturado com níveis INFO/ERROR
-- ✅ Cache com `@st.cache_data` para evitar reprocessamento
-- ✅ Tratamento de erros nas chamadas de rede
-- ✅ `requirements.txt` com dependências declaradas
-- ✅ `.gitignore` configurado
+-  Separação de responsabilidades em módulos (`coletor`, `analise`, `dashboard`)
+-  Docstrings em todas as funções
+-  Logging estruturado com níveis INFO/ERROR
+-  Cache com `@st.cache_data` para evitar reprocessamento
+-  Tratamento de erros nas chamadas de rede
+-  `requirements.txt` com dependências declaradas
+-  `.gitignore` configurado
 
 ---
 
