@@ -22,12 +22,6 @@ O **Painel Econômico BR** coleta, processa e visualiza 3 indicadores essenciais
 
 ---
 
-##  Preview
-
-![Dashboard Preview](data/dashboard_preview.png)
-
----
-
 ##  Funcionalidades
 
 - **KPIs em tempo real** com último valor e variação vs. mês anterior
